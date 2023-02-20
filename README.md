@@ -2,11 +2,11 @@
 Kiosk - File Writer
 
 You need to write a non-blocking console user interface for a new Kiosk system. A non-blocking system does not block the user interface while executing a blocking code such as writing to a file. The Kiosk system will show the following menu to the user:
-
+```
 1. Write "Hello World"
 2. Write Current Date
 3. Write OS Version
-
+```
 If the user enters '1', '2' or '3' write "Hello World", current date-time or OS version (Environment.OSVersion.VersionString) respectively to the file. 
 
 Use this class to write to the file -
