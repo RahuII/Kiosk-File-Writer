@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\bin\Debug\net7.0\Kiosk.exe
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\bin\Debug\net7.0\Kiosk.deps.json
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\bin\Debug\net7.0\Kiosk.runtimeconfig.json
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\bin\Debug\net7.0\Kiosk.dll
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\bin\Debug\net7.0\Kiosk.pdb
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.AssemblyInfo.cs
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.dll
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\refint\Kiosk.dll
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.pdb
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\Kiosk.genruntimeconfig.cache
+C:\Users\promact\Desktop\Rahul\DotNet\Assignment\Kiosk\obj\Debug\net7.0\ref\Kiosk.dll
